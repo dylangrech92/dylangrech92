@@ -11,7 +11,7 @@ Also under [chalie-ai](https://github.com/chalie-ai):
 
 Day job: AI adoption across a 70-engineer org.
 
-All beta, all open. Read the code if you want.
+All beta, all open.
 
 - [chalie.ai/build-log](https://chalie.ai/build-log)
 - [@dylangrech_92](https://x.com/dylangrech_92)
