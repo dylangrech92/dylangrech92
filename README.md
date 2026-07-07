@@ -1,6 +1,6 @@
 ### Dylan Grech
 
-Backend engineer, 15 years. Now building local-first AI runtimes and meta-harnesses. Malta.
+Backend engineer for 15 years+ Now building local-first AI runtimes and meta-harnesses. Malta.
 
 I build [Chalie](https://github.com/chalie-ai/chalie) — a local-first AI runtime that runs on your machine, keeps what matters, and improves itself under test. Open source, beta.
 
